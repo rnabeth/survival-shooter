@@ -7,10 +7,8 @@ http://unity3d.com/learn/tutorials/projects/survival-shooter-project
 Compatible with Unity version 5.2.1f1
 
 Additions to tutorial:
-
-Fixed heart HUD when health reaches zero
+- Fixed heart HUD when health reaches zero
 
 TODO:
-
-Ricochet fire on walls
-Jump
+- Ricochet fire on walls
+- Jump
